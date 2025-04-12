@@ -2,8 +2,12 @@ import * as tf from '@tensorflow/tfjs';
 import '@tensorflow/tfjs-backend-webgl';
 
 // Initialize WebGL backend
-await tf.setBackend('webgl');
-await tf.ready();
+async function initTF() {
+  await tf.setBackend("webgl");
+  await tf.ready();
+}
+initTF();
+
 
 interface WildfireData {
   temperature: number;

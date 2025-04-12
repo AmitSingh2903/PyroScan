@@ -1,4 +1,4 @@
-# 🔥 PyroScan – Real-Time Wildfire & Pyrocumulonimbus Detection
+# 🔥 PyroScan: Real-Time Wildfire & Pyrocumulonimbus Detection
 
 > ⚡ Edge AI meets Environmental Intelligence.  
 > 🌩️ Predict Pyrocumulonimbus cloud activity and wildfire risk — all in your browser.

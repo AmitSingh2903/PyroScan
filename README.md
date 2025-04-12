@@ -44,9 +44,12 @@ Unlike traditional tools that rely on cloud servers, PyroScan runs entirely in-b
 
 ## 📸 Demo Screens
 
-| Cloud Prediction | Risk Dashboard | Interactive Map |
-|------------------|----------------|------------------|
-| ![cloud](assets/cloud-demo.png) | ![dashboard](assets/dashboard.png) | ![map](assets/map.png) |
+| Cloud Prediction | Risk Dashboard | Interactive Map | WildFire Predictions |
+|------------------|----------------|------------------|-----------------|
+| ![cloud]![Screenshot (173)](https://github.com/user-attachments/assets/a3e24ed7-af95-44f5-ac5e-37bcbfdde20a) | ![dashboard](assets/dashboard.png) | ![map](assets/map.png) | ![wildfire](![Screenshot (175)](https://github.com/user-attachments/assets/951683c4-39ac-4fe1-bdb2-83e1666e746e)
+)
+
+
 
 ---
 

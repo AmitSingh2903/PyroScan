@@ -8,7 +8,7 @@
 > 🔥 Powered by TensorFlow.js + Supabase + React for full-stack real-time analytics.  
 > 🛰️ Your personal wildfire prediction lab — accessible from anywhere. 
 
-PyroScan UI (![Screenshot (177)](https://github.com/user-attachments/assets/60b4677c-99c8-4b30-9099-4693fd556d60) ![Screenshot (178)](https://github.com/user-attachments/assets/d3917017-a0f1-4faf-8e56-c10338c8c4ed)
+PyroScan UI ![Screenshot (177)](https://github.com/user-attachments/assets/60b4677c-99c8-4b30-9099-4693fd556d60) ![Screenshot (178)](https://github.com/user-attachments/assets/d3917017-a0f1-4faf-8e56-c10338c8c4ed)
 
 
 

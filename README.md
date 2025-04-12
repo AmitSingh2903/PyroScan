@@ -4,8 +4,9 @@
 > ⚡ Edge AI meets Environmental Intelligence.  
 > 🌩️ Predict Pyrocumulonimbus cloud activity and wildfire risk — all in your browser.
 
-![PyroScan UI Preview](![Screenshot (177)](https://github.com/user-attachments/assets/60b4677c-99c8-4b30-9099-4693fd556d60)
-)
+PyroScan UI (![Screenshot (177)](https://github.com/user-attachments/assets/60b4677c-99c8-4b30-9099-4693fd556d60) (![Screenshot (178)](https://github.com/user-attachments/assets/007e100d-c95f-409b-ac82-b0bea61f5f0e)
+
+
 
 ---
 

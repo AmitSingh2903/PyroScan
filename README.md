@@ -51,11 +51,3 @@ WildFire Prediction
 ![Screenshot (175)](https://github.com/user-attachments/assets/951683c4-39ac-4fe1-bdb2-83e1666e746e)
 
 ---
-
-## ⚙️ Getting Started
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/pyroscan.git
-cd pyroscan

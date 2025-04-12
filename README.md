@@ -1,7 +1,8 @@
 # 🔥 PyroScan – Real-Time Wildfire & Pyrocumulonimbus Detection
 
 > ⚡ Edge AI meets Environmental Intelligence.  
-> 🌩️ Predict Pyrocumulonimbus cloud activity and wildfire risk — all in your browser. 
+> 🌩️ Predict Pyrocumulonimbus cloud activity and wildfire risk — all in your browser.
+
 > 🌐 No backend. No servers. Just pure WebGL-accelerated machine learning.  
 > 📸 Upload cloud images. Get instant confidence scores and risk assessments.  
 > 🔥 Powered by TensorFlow.js + Supabase + React for full-stack real-time analytics.  

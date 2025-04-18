@@ -65,12 +65,25 @@ WildFire Prediction
 
 ## 📄 Research Publication
 
-This project is part of the research thesis:
+This project is part of an officially published academic thesis:
 
-**"Predicting Wildfires with Machine Learning: Insights from Pyrocumulonimbus Clouds Dynamics"**  
-Published on [Zenodo](https://zenodo.org/records/15243631)
+**🧠 Thesis Title:**  
+**"Predicting Wildfires with Machine Learning: Insights from Pyrocumulonimbus Clouds Dynamics"**
 
-🔗 **View Thesis**: [Thesis](https://zenodo.org/records/15243631)
+📘 **Published on:** [Zenodo](https://zenodo.org/records/15243631)  
+🏛️ **Awarding Institution:** Vellore Institute of Technology (VIT)  
+🗂️ **Resource Type:** Thesis  
+🗣️ **Language:** English  
+🗓️ **Year:** 2025  
+📎 **Digital Object Identifier, DOI:** [10.5281/zenodo.15243631](https://doi.org/10.5281/zenodo.15243631)
 
-> This repository hosts the complete source code, models, and frontend implementation used in the thesis.
+> 🔗 **Access Thesis**: [https://zenodo.org/records/15243631](https://zenodo.org/records/15243631)
+
+### 📑 Citation
+
+Singh, Amit. “Predicting Wildfires with Machine Learning: Insights from Pyrocumulonimbus Clouds Dynamics”. Zenodo, 2025. [https://doi.org/10.5281/zenodo.15243631.](https://doi.org/10.5281/zenodo.15243631)
+
+### 📑 Rights
+
+📝 Licensed under - Creative Commons Attribution 4.0 International
 

@@ -62,3 +62,15 @@ WildFire Prediction
 ![Screenshot (175)](https://github.com/user-attachments/assets/951683c4-39ac-4fe1-bdb2-83e1666e746e)
 
 ---
+
+## 📄 Research Publication
+
+This project is part of the research thesis:
+
+**"Predicting Wildfires with Machine Learning: Insights from Pyrocumulonimbus Clouds Dynamics"**  
+Published on [Zenodo](https://zenodo.org/records/15243631)
+
+🔗 **View Thesis**: [Thesis](https://zenodo.org/records/15243631)
+
+> This repository hosts the complete source code, models, and frontend implementation used in the thesis.
+

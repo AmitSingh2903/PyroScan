@@ -49,7 +49,7 @@ Unlike traditional tools that rely on cloud servers, PyroScan runs entirely in-b
 | **Frontend**   | React.js, TypeScript, Chart.js, Leaflet.js |
 | **ML Models**  | TensorFlow.js (CNN), Ensemble (XGBoost, RF) |
 | **Backend**    | Supabase (PostgreSQL), RLS Policies |
-| **Deployment** | Vercel / Netlify / GitHub Pages |
+| **Deployment** | Vercel  |
 
 ---
 
